@@ -38,6 +38,10 @@
 		{
 			"social-link": "https://youtube.com",
 			"socials__icon-image": "https://cdn.jsdelivr.net/gh/kparf/honey-data@f7e9d6448cf26a3411c68f995c4823da728aad7b/images/youtube.png"
+		},
+		{
+			"social-link": "https://www.instagram.com/",
+			"socials__icon-image": "https://cdn.jsdelivr.net/gh/kparf/honey-data@a79dbf14b6d7f56917e427f90ae385ce7d33e746/images/instagram-logo.png"
 		}
 	],
 	"info": {

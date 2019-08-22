@@ -1,1 +1,42 @@
-{}
+{
+	"logo": "https://via.placeholder.com/100.png",
+	"phone": [
+		"+375 11 111 111"
+	],
+	"address": [
+		"Адрес"
+	],
+	"slide": [
+		{
+			"image": "https://via.placeholder.com/200.png",
+			"text": "текст"
+		}
+	],
+	"product": [
+		{
+			"product-image": "https://via.placeholder.com/200.png",
+			"name": "Название",
+			"description": "Описание"
+		}
+	],
+	"hello": {
+		"hello-header": "Заголовок",
+		"hello-info": "Информация"
+	},
+	"valuesArticle": [
+		{
+			"image": "https://via.placeholder.com/300x500.png",
+			"header": "Заголовок",
+			"description": "Описание"
+		}
+	],
+	"social": [
+		{
+			"social-link": "vk.com",
+			"socials__icon-image": "https://via.placeholder.com/50.png"
+		}
+	],
+	"info": {
+		"text": "Текст"
+	}
+}

@@ -24,7 +24,7 @@
 			"text": "Добро пожаловть в магазин высокогорного меда!"
 		},
 		{
-			"image": "https://via.placeholder.com/200.png",
+			"image": "https://cdn.jsdelivr.net/gh/kparf/honey-data@1210e4740989012fd50bf26f96479f9cc2a7f476/images/IMG-2019.jpg",
 			"text": "Весна 2019!"
 		},
 		{
@@ -35,6 +35,37 @@
 	"product": [
 		{
 			"product-image": "https://via.placeholder.com/200.png",
+			"name": "АРОМАТНЫЙ",
+			"description": "Описание",
+			"price": "780 руб."
+		},
+		{
+			"product-image": "https://via.placeholder.com/200.png",
+			"price": "300 руб.",
+			"name": "ВКУСНЫЙ",
+			"description": "Описание"
+		},
+		{
+			"product-image": "https://via.placeholder.com/200.png",
+			"price": "250 руб.",
+			"name": "Название",
+			"description": "Описание"
+		},
+		{
+			"product-image": "https://via.placeholder.com/200.png",
+			"price": "150 руб.",
+			"name": "Название",
+			"description": "Описание"
+		},
+		{
+			"product-image": "https://via.placeholder.com/200.png",
+			"price": "150 руб.",
+			"name": "Название",
+			"description": "Описание"
+		},
+		{
+			"product-image": "https://via.placeholder.com/200.png",
+			"price": "115 руб.",
 			"name": "Название",
 			"description": "Описание"
 		}

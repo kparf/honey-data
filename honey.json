@@ -10,6 +10,18 @@
 		{
 			"image": "https://cdn.jsdelivr.net/gh/kparf/honey-data@b3b4dbb40079e8b5f2734dd66c55756b13d1c559/images/med1.jpg",
 			"text": "Мед - это здоровье..."
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/kparf/honey-data@5a97e93403ea19f4c9ded2cd1f6af6123c79805d/images/med2.jpg",
+			"text": "Без меда недуги одалеют"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/kparf/honey-data@3ff56eec8bbe916b23c5c48f000f3b26c54ad674/images/med3.jpg",
+			"text": "Польза меда - сила высокогорья..."
+		},
+		{
+			"image": "https://via.placeholder.com/200.png",
+			"text": "текст"
 		}
 	],
 	"product": [

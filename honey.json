@@ -36,38 +36,38 @@
 		{
 			"product-image": "https://via.placeholder.com/200.png",
 			"name": "АРОМАТНЫЙ",
-			"description": "Описание",
+			"description": "100% натуральный мёд.",
 			"price": "780 руб."
 		},
 		{
 			"product-image": "https://via.placeholder.com/200.png",
 			"price": "300 руб.",
 			"name": "ВКУСНЫЙ",
-			"description": "Описание"
+			"description": "Натуральный"
 		},
 		{
 			"product-image": "https://via.placeholder.com/200.png",
 			"price": "250 руб.",
-			"name": "Название",
-			"description": "Описание"
+			"name": "НАСТОЯЩИЙ",
+			"description": "Высокогорный мёд."
 		},
 		{
 			"product-image": "https://via.placeholder.com/200.png",
 			"price": "150 руб.",
-			"name": "Название",
-			"description": "Описание"
+			"name": "ВЫСОКОГОРНЫЙ",
+			"description": "супер мед!"
 		},
 		{
 			"product-image": "https://via.placeholder.com/200.png",
 			"price": "150 руб.",
-			"name": "Название",
-			"description": "Описание"
+			"name": "НАСТОЯЩИЙ",
+			"description": "100% высокогорный мёд."
 		},
 		{
 			"product-image": "https://via.placeholder.com/200.png",
 			"price": "115 руб.",
-			"name": "Название",
-			"description": "Описание"
+			"name": "ОЧЕНЬ ВКУСНЫЙ МЕД",
+			"description": "120 гр.\n\n100% натуральный мед."
 		}
 	],
 	"hello": {

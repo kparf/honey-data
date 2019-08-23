@@ -119,53 +119,63 @@
 			},
 			{
 				"product-image": "https://cdn.jsdelivr.net/gh/kparf/honey-data@5853d7febad33e67e7b0c6b85a59f3b1979ac661/images/honey_1602.jpg",
-				"name": "Название",
-				"description": "Описание"
+				"name": "ВКУСНЫЙ",
+				"description": "100% натуральный мёд.",
+				"price": "180 руб."
 			},
 			{
 				"product-image": "https://cdn.jsdelivr.net/gh/kparf/honey-data@dc8056f01d88ba5aff2028cac367f2fbe4e8301b/images/a39d73b6-1fc6-41f0-bafb-a30f4bdf1e04",
-				"name": "Название",
-				"description": "Описание"
+				"name": "НАСТОЯЩИЙ",
+				"description": "100% натуральный мёд.",
+				"price": "280 руб."
 			},
 			{
 				"product-image": "https://cdn.jsdelivr.net/gh/kparf/honey-data@165fe0b6b53aacae02e1b36a38f1cfd4617d66b1/images/honey_3002.jpg",
-				"name": "Название",
-				"description": "Описание"
+				"name": "ВКУСНЫЙ",
+				"description": "100% натуральный мёд.",
+				"price": "540 руб."
 			},
 			{
 				"product-image": "https://cdn.jsdelivr.net/gh/kparf/honey-data@12cd8199f05c8f6dc3956a6e4ed904eafc9bce99/images/9d2cb37c-0359-4835-97f6-0782504a113a",
-				"name": "Название",
-				"description": "Описание"
+				"name": "НАСТОЯЩИЙ",
+				"description": "100% натуральный мёд.",
+				"price": "680 руб."
 			},
 			{
 				"product-image": "https://cdn.jsdelivr.net/gh/kparf/honey-data@a5fc2c6ab04a6ecbfb98ae7766426f89789d00bb/images/024.jpg",
-				"name": "Название",
-				"description": "Описание"
+				"name": "ВКУСНЫЙ",
+				"description": "100% натуральный мёд.",
+				"price": "180 руб."
 			},
 			{
 				"product-image": "https://cdn.jsdelivr.net/gh/kparf/honey-data@cf03673c5eed3ed0320747b431972e006cdbe442/images/28_img_01.jpg",
-				"name": "Название",
-				"description": "Описание"
+				"name": "НАСТОЯЩИЙ",
+				"description": "100% натуральный мёд.",
+				"price": "180 руб."
 			},
 			{
 				"product-image": "https://cdn.jsdelivr.net/gh/kparf/honey-data@b94144aab1f2b5e09729c6fc8728d3b1f0dedc61/images/med.jpg",
-				"name": "Название",
-				"description": "Описание"
+				"name": "ВКУСНЫЙ",
+				"description": "100% натуральный мёд.",
+				"price": "180 руб."
 			},
 			{
 				"product-image": "https://cdn.jsdelivr.net/gh/kparf/honey-data@4eff91f347a0fdcb9cf32b9295e14748c589fc01/images/close-up-honey-pouring-33260.jpg",
-				"name": "Название",
-				"description": "Описание"
+				"name": "НАСТОЯЩИЙ",
+				"description": "100% натуральный мёд.",
+				"price": "180 руб."
 			},
 			{
 				"product-image": "https://cdn.jsdelivr.net/gh/kparf/honey-data@63e29ee0c795b1a0f3932f8cdf78357f641ae46e/images/honey_250.jpg",
-				"name": "Название",
-				"description": "Описание"
+				"name": "НАСТОЯЩИЙ",
+				"description": "100% натуральный мёд.",
+				"price": "180 руб."
 			},
 			{
 				"product-image": "https://cdn.jsdelivr.net/gh/kparf/honey-data@c19def84791901c788ee234302df371d00846acb/images/honey_1602.jpg",
-				"name": "Название",
-				"description": "Описание"
+				"name": "ВКУСНЫЙ",
+				"description": "100% натуральный мёд.",
+				"price": "180 руб."
 			}
 		]
 	}

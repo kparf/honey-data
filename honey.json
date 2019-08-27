@@ -180,6 +180,6 @@
 		]
 	},
 	"about-page": {
-		"description": "### Heading\n**This is bold** *This is italic* \nHere’s a [link!](https://mavo.io)\n\nAnd some code `foo.bar();`"
+		"description": "### Heading **This is bold** *This is italic* Here’s a [link!]\n\n(https://mavo.io) And some code `foo.bar();`"
 	}
 }

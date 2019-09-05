@@ -1,12 +1,14 @@
 {
-	"logo": "https://cdn.jsdelivr.net/gh/kparf/honey-data@6eec1bdfef98536564a3ad47353b4c7d7668532f/images/swarm.png",
-	"phone": [
-		"+375 11 111 111"
-	],
-	"address": [
-		"г. Москва",
-		"ул. Дивеевская 4"
-	],
+	"header": {
+		"logo": "https://cdn.jsdelivr.net/gh/kparf/honey-data@6eec1bdfef98536564a3ad47353b4c7d7668532f/images/swarm.png",
+		"phone": [
+			"+375 11 111 111"
+		],
+		"address": [
+			"г. Москва",
+			"ул. Дивеевская 4"
+		],	
+	},
 	"slide": [
 		{
 			"image": "https://cdn.jsdelivr.net/gh/kparf/honey-data@b3b4dbb40079e8b5f2734dd66c55756b13d1c559/images/med1.jpg",

@@ -102,6 +102,25 @@
 			"description": "Мы, это частная, ориентированная на ценности пасека. Наше отношение к делу не изменилось со времени начала занятия пчеловодством и только укрепилось за этот период. Начало положено в 2011 году и по сей день мы меняемся, становимся опытнее и успешнее."
 		}
 	],
+	"footer": {
+		"social": [
+			{
+				"social-link": "https://vk.com",
+				"socials__icon-image": "https://cdn.jsdelivr.net/gh/kparf/honey-data@7e5dd95945f6e7bcc4318bfdb8324b282b017886/images/vk.png"
+			},
+			{
+				"social-link": "https://youtube.com",
+				"socials__icon-image": "https://cdn.jsdelivr.net/gh/kparf/honey-data@e2f787c143cf74765fb8460c13fb437b5d754736/images/youtube.png"
+			},
+			{
+				"social-link": "https://www.instagram.com/",
+				"socials__icon-image": "https://cdn.jsdelivr.net/gh/kparf/honey-data@a79dbf14b6d7f56917e427f90ae385ce7d33e746/images/instagram-logo.png"
+			}
+		],
+		"info": {
+			"text": "КУПИТЬ-МЕД.МОСКВА - ПРОДАЖА НАСТОЯЩЕГО ГОРНОГО МЕДА В МОСКВЕ И МО © 2019 Privacy Policy. Terms of use"
+		},
+	},
 	"social": [
 		{
 			"social-link": "https://vk.com",

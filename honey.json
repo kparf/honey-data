@@ -246,6 +246,17 @@
 				"text": "Текст",
 				"slug": "t-tttt-t"
 			}
-		]
+		],
+		"posts": {
+			"post": [
+				{
+					"image": "https://via.placeholder.com/100.png",
+					"header": "Зоголовок 777",
+					"info": "Дополнительная информация",
+					"text": "Текст",
+					"slug": "yyyyy"
+				}
+			]
+		}
 	}
 }

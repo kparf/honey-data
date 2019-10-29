@@ -236,5 +236,16 @@
 			"text": "Текст",
 			"slug": "t-ttt-ttt"
 		}
-	]
+	],
+	"blog-page": {
+		"post": [
+			{
+				"image": "https://via.placeholder.com/100.png",
+				"header": "Зоголовок 22",
+				"info": "Дополнительная информация",
+				"text": "Текст",
+				"slug": "t-tttt-t"
+			}
+		]
+	}
 }

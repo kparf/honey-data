@@ -108,19 +108,19 @@
 		"social": [
 			{
 				"social-link": "https://vk.com",
-				"socials__icon-image": "https://cdn.jsdelivr.net/gh/kparf/honey-data@ae2b5505ef42dd2230547a1c00febca411c3c089/images/vk.png",
+				"socials__icon-image": "https://cdn.jsdelivr.net/gh/kparf/honey-data@62d1ffa97d7dcb2e01716ff83cff9f9615d6b105/images/vk%20(1).png",
 				"link": "https://vk.com",
 				"icon": "https://cdn.jsdelivr.net/gh/kparf/honey-data@f527503f74bb230004b7c81369fb8c03ba1a1202/images/vk.png"
 			},
 			{
 				"social-link": "https://youtube.com",
-				"socials__icon-image": "https://cdn.jsdelivr.net/gh/kparf/honey-data@19456d4094fe2fb920c99cdaa2d376ceb4d107ee/images/youtube.png",
+				"socials__icon-image": "https://cdn.jsdelivr.net/gh/kparf/honey-data@01a49f69b61148faa642ee960e28651a589d6a87/images/youtube%20(2).png",
 				"link": "https://youtub.com",
 				"icon": "https://cdn.jsdelivr.net/gh/kparf/honey-data@0a085578a6e58103b663a5a340e3bc776f83af07/images/youtube.png"
 			},
 			{
 				"social-link": "https://www.instagram.com/",
-				"socials__icon-image": "https://cdn.jsdelivr.net/gh/kparf/honey-data@e3f830b03c3df294993180b3c88d9ffdfa67a25a/images/instagtam.png",
+				"socials__icon-image": "https://cdn.jsdelivr.net/gh/kparf/honey-data@4c3715adf05cf2959dcc370db2be0b15690c2621/images/instagram-color-64.png",
 				"link": "https://www.instagram.com",
 				"icon": "https://cdn.jsdelivr.net/gh/kparf/honey-data@369c33060c4c908c7988b385b4583f454ad56d7f/images/instagram-logo.png"
 			}

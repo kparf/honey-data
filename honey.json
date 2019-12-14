@@ -47,38 +47,32 @@
 		{
 			"product-image": "https://cdn.jsdelivr.net/gh/kparf/honey-data@e7ef4a754e805259f5dcbf5e75a3f6607a765a1c/images/honey_3002.jpg",
 			"name": "АРОМАТНЫЙ 2",
-			"description": "100% натуральный мёд.",
-			"price": "780 руб."
+			"price": ""
 		},
 		{
 			"product-image": "https://cdn.jsdelivr.net/gh/kparf/honey-data@35c8e43f0e78b2d830e33e1c9e6be80e8287dc2b/images/honey_3002.jpg",
-			"price": "300 руб.",
-			"name": "ВКУСНЫЙ",
-			"description": "Натуральный"
+			"price": "",
+			"name": "ВКУСНЫЙ"
 		},
 		{
 			"product-image": "https://cdn.jsdelivr.net/gh/kparf/honey-data@d61f5142354559112f9f50edbb61ba1759c1282a/images/honey_1602.jpg",
-			"price": "250 руб.",
-			"name": "НАСТОЯЩИЙ",
-			"description": "Высокогорный мёд."
+			"price": "",
+			"name": "НАСТОЯЩИЙ"
 		},
 		{
 			"product-image": "https://cdn.jsdelivr.net/gh/kparf/honey-data@326e3f10a30fa8b323cf9846b3c381469afbdbba/images/honey_1602.jpg",
-			"price": "150 руб.",
-			"name": "ВЫСОКОГОРНЫЙ",
-			"description": "супер мед!"
+			"price": "",
+			"name": "ВЫСОКОГОРНЫЙ"
 		},
 		{
 			"product-image": "https://cdn.jsdelivr.net/gh/kparf/honey-data@2495922457c17cdc0b026cd449137bd505fca89d/images/honey_250.jpg",
-			"price": "150 руб.",
-			"name": "НАСТОЯЩИЙ",
-			"description": "100% высокогорный мёд."
+			"price": "",
+			"name": "НАСТОЯЩИЙ"
 		},
 		{
 			"product-image": "https://cdn.jsdelivr.net/gh/kparf/honey-data@53c4d4f48709b11d763caa22b0a8466aa47f15eb/images/honey_250.jpg",
-			"price": "115 руб.",
-			"name": "ОЧЕНЬ ВКУСНЫЙ МЕД 2",
-			"description": "120 гр.\n\n100% натуральный мед."
+			"price": "",
+			"name": "ОЧЕНЬ ВКУСНЫЙ МЕД 2"
 		}
 	],
 	"hello": {

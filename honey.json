@@ -252,5 +252,12 @@
 				}
 			]
 		}
-	}
+	},
+	"MainProduct": [
+		{
+			"product-image": "https://via.placeholder.com/200.png",
+			"name": "Новое н",
+			"description": "Описание"
+		}
+	]
 }

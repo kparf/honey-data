@@ -256,8 +256,7 @@
 	"MainProduct": [
 		{
 			"product-image": "https://via.placeholder.com/200.png",
-			"name": "Название",
-			"description": "Описание"
+			"name": "Название"
 		},
 		{
 			"product-image": "https://cdn.jsdelivr.net/gh/kparf/honey-data@a107bea6586e00a1e29de664bd4f2ed69b6bbcbe/images/024.jpg",

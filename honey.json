@@ -255,12 +255,16 @@
 	},
 	"MainProduct": [
 		{
-			"product-image": "https://via.placeholder.com/200.png",
-			"name": "Название"
+			"product-image": "https://cdn.jsdelivr.net/gh/kparf/honey-data@b3eded300cd1a4110ff9015b589084703efbcb50/images/honey-new.jpg",
+			"name": "Натуральный Мёд"
 		},
 		{
-			"product-image": "https://cdn.jsdelivr.net/gh/kparf/honey-data@a107bea6586e00a1e29de664bd4f2ed69b6bbcbe/images/024.jpg",
-			"name": "Главный товар 1"
+			"product-image": "https://cdn.jsdelivr.net/gh/kparf/honey-data@bf3b8de950651ce0a0ba6015e51a3eb0e15da363/images/honey-soft-new.jpg",
+			"name": "Крем-мёд"
+		},
+		{
+			"product-image": "https://cdn.jsdelivr.net/gh/kparf/honey-data@f7b94e1d5bd9ffa1deca865bbb98faccb4a4f102/images/honey-set.jpg",
+			"name": "Подарочные наборы"
 		}
 	]
 }
